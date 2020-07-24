@@ -1,9 +1,8 @@
-<h1 align="center">
-OI, eu sou o kennedy 👋
-</h1>
+<p align="center">
+HI, I'm Kennedy 👋
+</p>
 
 <p align="center">
-  
   <a href="https://www.linkedin.com/in/kennedyrs">
     <img alt="linkedin" src="https://img.shields.io/badge/-kennedyrs-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kennedyrs/" />
   </a>
